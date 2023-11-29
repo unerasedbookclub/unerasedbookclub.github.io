@@ -1,3 +1,8 @@
+---
+title: About Unerased Book Club
+layout: default
+---
+
 # About Unerased Book Club
 
 unerased: the process of restoring that which has been erased, rendered unimportant
